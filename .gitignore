@@ -1,8 +1,6 @@
 # Dataset (too large, 800MB+)
 dataset/
 
-# Trained model weights (24.5MB, can be regenerated via train.py)
-output/model.keras
 
 # Python
 __pycache__/
