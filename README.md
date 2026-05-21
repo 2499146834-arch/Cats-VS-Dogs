@@ -9,6 +9,10 @@ Binary image classification (cat vs dog) using **MobileNetV2 transfer learning**
 
 **Validation Accuracy: 98.98%** | **Parameters: 2.3M** | **Dataset: ~20,000 images** | **Input: 160×160**
 
+## Demo Video
+
+[Watch the demo on YouTube](https://youtu.be/lTcGDM3vsRc)
+
 ---
 
 ## Quick Start
